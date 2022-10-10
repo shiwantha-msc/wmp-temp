@@ -1,7 +1,7 @@
 # wmp-temp
 
-clone project 
-coppy 'drivre' file and replace C: drive existing one
+clone project  ->  
+coppy 'drivre' file and replace C: drive existing one  ->  
 un-zip file
 build framewroek level - use bin
 build test level (po & test) - use bin 
